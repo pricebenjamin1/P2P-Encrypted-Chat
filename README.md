@@ -15,9 +15,15 @@ Security will be tested over the following months and updates will appear here.
 ADDITIONAL NOTES
 
 I am continuously improving my coding and security knowledge and I hope to continuously show this by updating and improving this project. I chose this project because I wanted something to show for my years of effort involving scripting and coding. Here is a list of some of the ideas and tools within this project:
-CIA Triad
-Cryptography: RSA PKI, symmetric
-Advanced Data Types: encoding, object types, key objects
-Socket
-Pickling
-Tkinter
+
+-CIA Triad
+
+-Cryptography: RSA PKI, symmetric
+
+-Advanced Data Types: encoding, object types, key objects
+
+-Socket
+
+-Pickling
+
+-Tkinter
