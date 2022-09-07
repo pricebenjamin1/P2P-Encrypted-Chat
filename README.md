@@ -9,7 +9,7 @@ Each client will connect to the server using an ip address. Clients receive the 
 
 HOW FAR ALONG IS THIS SOLUTION?
 
-This project is not meant to be implemented in a production environment at this time. It is 95% complete and will be completely functional by 8/28/22.
+This project is not meant to be implemented in a production environment at this time. It is 95% complete and will be completely functional by 10/15/22.
 Security will be tested over the following months and updates will appear here.
 
 ADDITIONAL NOTES
